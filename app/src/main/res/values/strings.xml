@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Subassembly</string>
+    <string name="left">左边</string>
+    <string name="right">右边</string>
+    <string name="another">另一个</string>
+    <string name="send">发送广播</string>
+    <string name="makecal">打电话</string>
+    <string name="notify">notify</string>
+    <string name="takephoto">takephoto</string>
+    <string name="photo">photo</string>
+    <string name="toast_message">toast</string>
+    <string name="success">success</string>
+    <string name="warn">warn</string>
+    <string name="info">info</string>
+    <string name="error">error</string>
+    <string name="normal">normal</string>
+    <string name="custom">custom</string>
+</resources>
